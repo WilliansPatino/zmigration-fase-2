@@ -2,4 +2,6 @@
 
 # argumento de consola:    COS
 
-su - zimbra -c "zmprov DeleteCOS $1"
+
+su - zimbra -c "zmprov DeleteCOS default"
+su - zimbra -c "zmprov DeleteCOS defaultExternal"
