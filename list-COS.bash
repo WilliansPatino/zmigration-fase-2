@@ -1,0 +1,1 @@
+su - zimbra -c "zmprov GetAllCOS"
