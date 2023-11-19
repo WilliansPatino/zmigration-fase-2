@@ -1298,7 +1298,7 @@ zimbraSSLDHParam:: LS0tLS1CRUdJTiBESCBQQVJBTUVURVJTLS0tLS0KTUlJQkNBS0NBUUVBL
 zimbraReverseProxyAvailableLookupTargets: mail.proviasdes.gob.pe
 zimbraReverseProxyUpstreamLoginServers: mail.proviasdes.gob.pe
 zimbraVersionCheckServer: acfc2ca7-02e3-4906-ac7c-ab9517cad090
-zimbraVersionCheckSendNotifications: TRUE
+zimbraVersionCheckSendNotifications: TRUED
 zimbraVersionCheckNotificationEmail: admin@proviasdes.gob.pe
 zimbraVersionCheckNotificationEmailFrom: admin@proviasdes.gob.pe
 zimbraLDAPSchemaVersion: 1649766200
