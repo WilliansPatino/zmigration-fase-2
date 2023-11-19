@@ -1,0 +1,21 @@
+
+dn: zimbraDataSourceName=InternalGAL,uid=galsync.uhkony0ta,ou=people,dc=prov
+ iasdes,dc=gob,dc=pe
+zimbraDataSourceName: InternalGAL
+zimbraDataSourceType: gal
+zimbraDataSourceFolderId: 257
+zimbraGalType: zimbra
+zimbraDataSourceEnabled: TRUE
+zimbraGalStatus: enabled
+objectClass: zimbraDataSource
+objectClass: zimbraGalDataSource
+zimbraDataSourceId: 46676142-a47c-4af1-87ae-c8cdd480d830
+zimbraCreateTimestamp: 20231119000614.741Z
+structuralObjectClass: zimbraGalDataSource
+entryUUID: 32f97522-1abb-103e-93c4-59d039ae9987
+creatorsName: uid=zimbra,cn=admins,cn=zimbra
+createTimestamp: 20231119000614Z
+zimbraGalLastSuccessfulSyncTimestamp: 20231119044904.725Z
+entryCSN: 20231119044904.729543Z#000000#000#000000
+modifiersName: uid=zimbra,cn=admins,cn=zimbra
+modifyTimestamp: 20231119044904Z
